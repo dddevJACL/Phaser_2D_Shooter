@@ -1,4 +1,4 @@
-### Capstone 467: Galactic Showdown 
+### Phaser Game Dev: Galactic Showdown 
 
 PLEASE READ:
 
